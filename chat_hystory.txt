@@ -1,0 +1,7 @@
+
+
+
+User : Are you a Private AI?
+LLM :I am not a private AI. I'm an open-source language model designed to assist users with various tasks, including programming, technical inquiries, and general information seeking. My purpose is to be helpful and informative while maintaining transparency about my capabilities and limitations.
+
+Is there anything specific you'd like assistance with regarding programming, technology, or another topic?
